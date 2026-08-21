@@ -1,4 +1,3 @@
-# Create a dictionary containing product names and quantities
 inventory = {
     "Laptop": 15,
     "Mouse": 8,

@@ -1,4 +1,4 @@
-# Create a dictionary containing student names and marks
+
 students = {"Alice": 85, "Bob": 78, "Charlie": 92}
 
 while True:

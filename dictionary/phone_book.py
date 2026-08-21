@@ -1,4 +1,4 @@
-# Create a dictionary containing names and phone numbers
+
 contacts = {
     "Alice": "9876543210",
     "Bob": "8765432109",

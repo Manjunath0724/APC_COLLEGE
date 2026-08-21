@@ -1,4 +1,4 @@
-# Create a dictionary containing book IDs and book names
+
 books = {
     "B01": "To Kill a Mockingbird",
     "B02": "1984",

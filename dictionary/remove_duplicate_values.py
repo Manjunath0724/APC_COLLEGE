@@ -1,4 +1,4 @@
-# Create a dictionary containing duplicate values
+
 original_dict = {
     "a": 1,
     "b": 2,
@@ -8,7 +8,7 @@ original_dict = {
 }
 print("Original dictionary:", original_dict)
 
-# Remove duplicate values while keeping the first occurrence
+
 unique_dict = {}
 seen_values = set()
 for key, val in original_dict.items():
@@ -16,5 +16,4 @@ for key, val in original_dict.items():
         unique_dict[key] = val
         seen_values.add(val)
 
-# Display result
 print("Dictionary after removing duplicate values:", unique_dict)

@@ -1,10 +1,9 @@
-# List of integers and target value
+
 numbers = [2, 7, 11, 15]
 target = 9
 print("List of numbers:", numbers)
 print("Target sum:", target)
 
-# Find two numbers whose sum is equal to target using a dictionary
 seen = {}
 found = False
 for num in numbers:
